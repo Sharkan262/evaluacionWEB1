@@ -32,7 +32,6 @@ body{
 
 form{
     display: block;
-    border: 1px solid black;
     width: 80%;
     height: auto;
     margin: auto;
@@ -52,7 +51,6 @@ form{
     text-align: center;
     font-family: 'Concert One', cursive;
     display: block;
-    border: 1px solid black;
     font-size: 25px;
     border-top: 0;
 }
