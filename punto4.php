@@ -12,7 +12,7 @@
     <div class="volver"><a href="index.php">Volver al índice</a></div>
     <div class="body">
         <form action="punto4.php" method="POST">
-        <h3>Horas trabajadas:</h3>
+        <h3>Horas trabajadas semanalmente:</h3>
         <input type="number" class="horas" placeholder="Ingrese las horas trabajadas" name="horas">
         <button type="submit" class="boton" name="botonCalculcular" value="calcular">Calcular</button>
         </form>
