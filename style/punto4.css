@@ -29,38 +29,42 @@ body{
     text-align: center;
     padding: 5vh;
 }
-.Contenedor{
-    position: relative;
-    width: 50%;
-    height: auto;
+
+form{
+    display: inline-block;
+    width: 100%;
     margin: auto;
-    padding: 5px;
-    background-color: rgba(255, 255, 255, 0.7);
-}
-h2{
+    position: relative;
     text-align: center;
-    display: block;
+    background-color: rgba(255, 255, 255,0.7);
+    font-family: 'Concert One', cursive;
+    
 }
-
-p{
+.Sueldo{
     display: block;
-    text-align: center;
+    margin: auto;
     font-size: 25px;
-    margin: 0;
-
+    position: relative;
+    text-align: center;
+    background-color: rgba(255, 255, 255,0.7);
+    font-family: 'Concert One', cursive;
+}
+.body{
+    width: 80%;
+    position: relative;
+    margin: auto;
 }
 input{
-    width: 25vh;
-    display: block;
-    margin: auto;
     font-family: 'Concert One', cursive;
-    font-size: 18px;
+    width: 50%;
+    font-size: 25px;
 }
-button{
+.boton{
     text-decoration: none;
     display: block;
     margin: auto;
     margin-top: 10px;
+    margin-bottom: 10px;
     padding: 5px;
     font-size: 20px;
     color: #000000;
@@ -69,19 +73,9 @@ button{
     border: 0.1px solid #000000;
     font-family: 'Concert One', cursive;
 }
-button:hover{
+.boton:hover{
     background-color: rgba(197, 17, 17, 0.5);
 }
-form{
-    display: block;
-    font-family: 'Concert One', cursive;
-}
-.respuesta{
-    width: auto;
-    height: auto;
-    text-align: center;
-    font-family: 'Concert One', cursive;
-    display:block;
-    font-size: 20px;
-    margin-top: 5px;
+h3{
+    font-size: 25px;
 }
