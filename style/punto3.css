@@ -32,4 +32,5 @@ body{
 .contenedor{
 
    background-color: aquamarine;
+   width: 50% auto;
 }
