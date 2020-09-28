@@ -4,7 +4,7 @@ body{
 }
 
 .fondo{
-    background-image: url('../img/background.jpg');
+   background-image: url('../img/background.jpg');
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -28,4 +28,8 @@ body{
 .volver{
     text-align: center;
     padding: 5vh;
+}
+.contenedor{
+
+   background-color: aquamarine;
 }

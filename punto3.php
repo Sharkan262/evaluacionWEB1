@@ -11,5 +11,8 @@
 <body>
     <div class="fondo"></div>
     <div class="volver"><a href="index.php">Volver al índice</a></div>
+    <div class="contenedor">
+        <h1>Hola</h1>
+    </div>
 </body>
 </html>
