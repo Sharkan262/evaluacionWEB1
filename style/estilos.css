@@ -37,7 +37,9 @@ header ul li a{
 
 header ul li a:hover{
     background-color: rgba(197, 17, 17, 0.3);
+    cursor: pointer;
 }
+
 
 div h1{
     text-align: center;

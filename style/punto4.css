@@ -24,6 +24,7 @@ body{
 }
 .volver a:hover{
     background-color: rgba(197, 17, 17, 0.3);
+    cursor: pointer;
 }
 .volver{
     text-align: center;
