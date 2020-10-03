@@ -39,7 +39,7 @@
                                     echo "Su imc es de ".$imc. " es decir Obecidad de tipo II";
                                 }elseif($imc >=40 && $imc <= 49.9){
                                     echo "Su imc es de ".$imc. " es decir Obesidad de tipo III (mórbida)";
-                                }elseif($imc >50 ){
+                                }elseif($imc >=50 ){
                                     echo "Su imc es de ".$imc. " es decir Obesidad de tipo IV (extrema)";
                                 }
                             }else {
